@@ -1,0 +1,23 @@
+"","Ad Set Name","Brand Position","Creative","Audience","Spent","Impressions","Clicks","Leads","Cost / Click","Click Rate","Cost / Lead","Lead Rate","Brand_Position","preds","Leads_Per_100_Impressions"
+"1","S9_CR2_W1_IG_SNG_STA_DP_PP_WL","Data Protection","Where You Live","Privacy Practitioners",64,2619,38,10,1.69,0.0145,6.41,0.263,"Data Protection",0.255277822267234,0.381825124093165
+"2","S9_CR2_W1_IG_SNG_STA_DF_SV_BT","Digital Footprint","Big Tech","Security & Vulnerabilities",71,2846,37,11,1.91,0.013,6.43,0.297,"Digital Footprint",0.229377291897517,0.386507378777231
+"3","S9_CR2_W1_IG_SNG_STA_AD_PP_EP","Advocacy","Enough Power","Privacy Practitioners",71,3379,67,11,1.06,0.0198,6.44,0.164,"Advocacy",0.245277079490861,0.325540100621486
+"4","S9_CR2_W1_IG_SNG_STA_AD_PP_AI","Advocacy","Are You In?","Privacy Practitioners",71,3100,35,10,2.02,0.0113,7.09,0.286,"Advocacy",0.245277079490861,0.32258064516129
+"5","S9_CR2_W1_IG_SNG_STA_RM_SV_AO","Remediation","All Over","Security & Vulnerabilities",50,1739,11,5,4.57,0.0063,10.05,0.455,"Remediation",0.222606756217097,0.287521564117309
+"6","S9_CR2_W1_IG_SNG_STA_RM_SV_DF","Remediation","Data Footprint","Security & Vulnerabilities",71,2431,21,7,3.38,0.0086,10.15,0.333,"Remediation",0.222606756217097,0.287947346770876
+"7","S9_CR2_W1_IG_SNG_STA_AD_SV_EP","Advocacy","Enough Power","Security & Vulnerabilities",71,3116,48,7,1.48,0.0154,10.16,0.146,"Advocacy",0.276031269010267,0.224646983311938
+"8","S9_CR2_W1_IG_SNG_STA_DP_SV_WL","Data Protection","Where You Live","Security & Vulnerabilities",64,2327,41,6,1.56,0.0176,10.69,0.146,"Data Protection",0.286032011786639,0.257842715943275
+"9","S9_CR2_W1_IG_SNG_STA_AD_PS_EP","Advocacy","Enough Power","Protection Seekers",71,3130,27,6,2.62,0.0086,11.77,0.222,"Advocacy",0.128385675437143,0.191693290734824
+"10","S9_CR2_W1_IG_SNG_STA_AD_SV_AI","Advocacy","Are You In?","Security & Vulnerabilities",71,2870,21,5,3.36,0.0073,14.12,0.238,"Advocacy",0.276031269010267,0.174216027874564
+"11","S9_CR2_W1_IG_SNG_STA_DF_EF_BT","Digital Footprint","Big Tech","Early Adopter Futurists",71,2558,18,5,3.93,0.007,14.13,0.278,"Digital Footprint",0.0735260999434631,0.19546520719312
+"12","S9_CR2_W1_IG_SNG_STA_DF_PP_BT","Digital Footprint","Big Tech","Privacy Practitioners",71,3044,28,5,2.53,0.0092,14.19,0.179,"Digital Footprint",0.198623102378111,0.164257555847569
+"13","S9_CR2_W1_IG_SNG_STA_RM_PP_DF","Remediation","Data Footprint","Privacy Practitioners",71,2763,24,5,2.96,0.0087,14.21,0.208,"Remediation",0.191852566697691,0.180962721679334
+"14","S9_CR2_W1_IG_SNG_STA_RM_PP_AO","Remediation","All Over","Privacy Practitioners",39,2181,4,2,9.68,0.0018,19.36,0.5,"Remediation",0.191852566697691,0.0917010545621275
+"15","S9_CR2_W1_IG_SNG_STA_DF_SV_MC","Digital Footprint","Made Clear","Security & Vulnerabilities",50,1621,10,2,4.97,0.0062,24.86,0.2,"Digital Footprint",0.229377291897517,0.123380629241209
+"16","S9_CR2_W1_IG_SNG_STA_AD_EF_EP","Advocacy","Enough Power","Early Adopter Futurists",50,1923,9,2,5.58,0.0047,25.13,0.222,"Advocacy",0.120180077056214,0.104004160166407
+"17","S9_CR2_W1_IG_SNG_STA_DP_EF_WL","Data Protection","Where You Live","Early Adopter Futurists",64,2485,15,2,4.28,0.006,32.07,0.133,"Data Protection",0.130180819832586,0.0804828973843058
+"18","S9_CR2_W1_IG_SNG_STA_DP_PS_WL","Data Protection","Where You Live","Protection Seekers",64,2229,23,2,2.79,0.0103,32.08,0.087,"Data Protection",0.138386418213515,0.0897263346792283
+"19","S9_CR2_W1_IG_SNG_STA_RM_PS_DF","Remediation","Data Footprint","Protection Seekers",37,1658,1,1,36.73,6e-04,36.73,1,"Remediation",0.0749611626439731,0.060313630880579
+"20","S9_CR2_W1_IG_SNG_STA_DF_PP_MC","Digital Footprint","Made Clear","Privacy Practitioners",38,1669,4,1,9.46,0.0024,37.84,0.25,"Digital Footprint",0.198623102378111,0.0599161174355902
+"21","S9_CR2_W1_IG_SNG_STA_RM_EF_DF","Remediation","Data Footprint","Early Adopter Futurists",38,1608,3,1,12.71,0.0019,38.14,0.333,"Remediation",0.0667555642630434,0.0621890547263682
+"22","S9_CR2_W1_IG_SNG_STA_AD_EF_AI","Advocacy","Are You In?","Early Adopter Futurists",38,1456,2,1,19.18,0.0014,38.36,0.5,"Advocacy",0.120180077056214,0.0686813186813187
